@@ -5,7 +5,7 @@ I am Gopal, born in India, currently living in Atlanta, Georgia, with my sweet w
 
 Gopal literally translated in any Indian laguages, means a Cowboy, one who takes care of cows, but I have come to accept myself as handyman, as I naturally enjoy  fixing broken things, such as broken equipment at home, broken toys, broken software and my broken self. 
 
-All my working life, I have worked as oracle database developer and now as Sr APEX Developer at Oracle Corp. 
+All my working life since 1998, I have worked as oracle database developer and now as Sr APEX Developer at Oracle Corp. 
 
 I have solved many problems related to my work, mainly by searching the internet and then applying the information to solve the problem and finally taking the credit. 
 
@@ -19,6 +19,15 @@ which may help my fellows on internet in some way.
 My first project, csv2table, solves the problem of uploading large csv datasets and is meant to help Oracle APEX developers to get past the uploading problem. This was easy to start and complete.
 
 My next project will be to write an Essay, which I dont find many in these days of blogging and tweeting, where someone has to (quoting Paul RIchard on substantive writing) **say something worth saying about something worth saying something about**. 
+
+I have some definite goals I want to achieve in this life
+
+- Learn to love and forgive effortlessly
+  - Be a loving husband, father, son, friend and acquaintance
+- Write stories and possibly make a TV series for kids revealing the philosophical mysteries of life
+- Contribute something significant in world of Einstiens physics, related to time.
+- Write software for solving important problems faced by life forms on this spaceship earth.
+
 
 
 
