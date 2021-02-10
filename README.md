@@ -22,8 +22,7 @@ My next project will be to write an Essay, which I dont find many in these days 
 
 I have some definite goals I want to achieve in this life
 
-- Learn to love and forgive effortlessly
-  - Be a loving husband, father, son, friend and acquaintance
+- Learn to love and forgive effortlessly by actively working on myself to be a loving husband, father, son, friend and acquaintance. I have realized that, love is not a feeling, it is a deliberate act of not blaming anyone by exercising empathy and accepting the outcome as it is.
 - Write stories and possibly make a TV series for kids revealing the philosophical mysteries of life
 - Contribute something significant in world of Einstiens physics, related to time.
 - Write software for solving important problems faced by life forms on this spaceship earth.
