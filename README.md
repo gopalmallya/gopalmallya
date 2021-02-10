@@ -1,6 +1,7 @@
 Hello World ,
 
-I am Gopal, born in India, currently living in Atlanta, Georgia, with my sweet wife and son. ![Family]([http://url/to/img.png](https://github.com/gopalmallya/gopalmallya/raw/master/family.jpg))
+I am Gopal, born in India, currently living in Atlanta, Georgia, with my sweet wife and son. 
+![Family](https://github.com/gopalmallya/gopalmallya/blob/master/family.jpg?raw=true)
 
 Gopal literally translated in any Indian laguages, means a Cowboy, one who takes care of cows, but I have come to accept myself as handyman, as I naturally enjoy  fixing broken things, such as broken equipment at home, broken toys, broken software and my broken self. 
 
