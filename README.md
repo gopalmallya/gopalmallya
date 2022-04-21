@@ -5,7 +5,7 @@ I am Gopal, born in India, currently living in Atlanta, Georgia, with my sweet w
 
 Gopal literally translated in any Indian laguages, means a Cowboy, one who takes care of cows, but I have come to accept myself as handyman, as I naturally enjoy  fixing broken things, such as broken equipment at home, broken toys, broken software and my broken self. 
 
-All my working life since 1998, I have worked as oracle database developer and now as Sr APEX Developer at LANL Corp. 
+All my working life since 1998, I have worked as oracle database developer and now as Oracle APEX Developer at LANL Corp. 
 
 I have solved many problems related to my work, mainly by searching the internet and then applying the information to solve the problem and finally taking the credit. 
 
